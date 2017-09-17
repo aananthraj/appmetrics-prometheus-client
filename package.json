@@ -1,0 +1,25 @@
+{
+  "name": "appmetrics-prometheus-client",
+  "version": "0.0.3",
+  "description": "An package to collect default set of metrics and expose it to /metrics endpoint for prometheus server to scrape them. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Aananth1995/appmetrics-prometheus.git"
+  },
+  "keywords": [
+    "appmetrics",
+    "prometheus",
+    "performance",
+    "monitoring"
+  ],
+  "author": "Aananth K <aananthraj1995@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aananth1995/appmetrics-prometheus/issues"
+  },
+  "homepage": "https://github.com/Aananth1995/appmetrics-prometheus#readme"
+}
