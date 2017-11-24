@@ -38,7 +38,7 @@ The Collector sends the following data values to Path /metrics from Node Applica
 * `memory.system.used` the total amount of RAM in use on the system in bytes.
 * `memory.system.total` the total amount of RAM available on the system in bytes.
 
-####Event Loop
+#### Event Loop
 
 * `eventloop.latency.min` the shortest sampled latency for processing an event
 * `eventloop.latency.max` the longest sampled latency for processing an event
@@ -55,7 +55,7 @@ The Collector sends the following data values to Path /metrics from Node Applica
 
 * `gc.duration` the duration of the GC cycle in milliseconds.
 
-####HTTP Requests
+#### HTTP Requests
 
 **Timers**
 
