@@ -44,7 +44,7 @@ The Collector sends the following data values to Path /metrics from Node Applica
 * `eventloop.latency.max` the longest sampled latency for processing an event
 * `eventloop.latency.avg` the mean sampled latency for processing an event
 
-####Garbage Collection
+#### Garbage Collection
 
 **Gauges**
 
